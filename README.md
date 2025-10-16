@@ -1,4 +1,3 @@
-<DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -134,7 +133,7 @@ body
         margin: 1rem;
         padding: 1rem;
       }
-      header h1 { font-size: 1.8rem; }
+      header h1 { font-size: 1.8rem; } 
     }
   </style>
 </head>
